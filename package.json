@@ -1,0 +1,17 @@
+{
+  "name": "project_4pmwe_2706",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:chromium": "npx playwright test TC_02_Register.spec.js --project=chromium",
+    "test:firefox": "npx playwright test TC_02_Register.spec.js --headed --project=firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}

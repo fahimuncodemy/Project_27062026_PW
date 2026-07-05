@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "address": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "12345",
+        "phone": "555-1234",
+        "ssn": "123-45-6789",
+        "username": "johndoe600",
+        "password": "password123"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "address": "456 Elm St",
+        "city": "Othertown",
+        "state": "NY",
+        "zipCode": "67890",
+        "phone": "555-5678",
+        "ssn": "987-65-4321",
+        "username": "janesmith600",
+        "password": "securepass456"
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "address": "789 Oak St",
+        "city": "Sometown",
+        "state": "TX",
+        "zipCode": "54321",
+        "phone": "555-9876",
+        "ssn": "111-22-3333",
+        "username": "alicejohnson600",
+        "password": "mypassword789"
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Williams",
+        "address": "321 Pine St",
+        "city": "Anycity",
+        "state": "FL",
+        "zipCode": "98765",
+        "phone": "555-4321",
+        "ssn": "444-55-6666",
+        "username": "bobwilliams600",
+        "password": "pass1234"
+    },
+    {
+        "firstName": "Charlie",
+        "lastName": "Brown",
+        "address": "654 Cedar St",
+        "city": "Newtown",
+        "state": "IL",
+        "zipCode": "24680",
+        "phone": "555-2468",
+        "ssn": "777-88-9999",
+        "username": "charliebrown600",
+        "password": "charliepass"
+    }
+]
